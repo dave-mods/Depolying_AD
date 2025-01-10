@@ -1,4 +1,4 @@
-# Depolying_AD
+# Depolying AD
 
 # <b>Description<b/>
 For this portion of the Active Directory project, I install Active Directory on the domain controller, create a domain admin, and join the client VM to the domain.
